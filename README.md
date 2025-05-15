@@ -54,7 +54,7 @@ The following technologies were used in the development of the Tasty App:
 
 To run the Tasty App on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/AlpayC/Frontend_Abschlussprojekt_Tasty`
+1. Clone this repository
 2. Navigate to the project directory: `cd tasty-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
